@@ -1,4 +1,4 @@
-# Poject1-Kinozal
+# Poject-1-Kinozal
 HTML/CSS/JavaScript
 
 ## Setup
